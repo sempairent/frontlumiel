@@ -52,7 +52,7 @@ const MusicPlayer = () => {
 
   return (
     <div className="min-h-screen bg-gray-900 text-white p-6">
-      <h1 className="text-4xl font-bold text-center mb-6">Music Player</h1>
+      <h1 className="text-4xl font-bold text-center mb-6">Music Midward</h1>
       <div className="max-w-md mx-auto">
         <input
           type="text"
